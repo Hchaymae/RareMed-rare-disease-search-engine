@@ -1,0 +1,206 @@
+Case report: orthostatic hypotension as the first presentation of progressive encephalomyelitis with rigidity and myoclonus (PERM) with multiple autoimmune antibodies
+
+Jinyi Song, Shanshan Hu, Liang Chen, Chaoyang Lan & Peilin Lu
+
+
+Abstract
+Introduction
+Stiff person syndrome (SPS) is a rare disease characterized by axial and lower-extremity muscle rigidity, muscle spasm, and pain. Progressive encephalomyelitis with rigidity and myoclonus (PERM) is a variant of SPS. This case is particularly notable for its uncommon initial symptom: orthostatic hypotension, coupled with the presence of multiple antibodies. Such a presentation is a rarity in the context of PERM, thus providing a fresh and unique angle for both diagnosis and treatment.
+
+Case presentation
+This case presents a 71-year-old man who was ultimately diagnosed with progressive encephalomyelitis with rigidity and myoclonus (PERM). His initial symptom was orthostatic hypotension, and we detected multiple antibodies such as GlyR antibody, GAD antibody, GM1-IgG and GQ1b-IgG in his serum. The patient showed partial response to glucocorticoid and immunoglobulin therapies, but as the disease recurred and progressed, plasma exchange, rituximab, and cyclophosphamide immunosuppressive therapy was administered, the prognosis remained poor. During follow-up after treatment, the patient developed pulmonary embolism and cardiac arrest, and died.
+
+Conclusion
+PERM exhibits diverse manifestation and pathogenic mechanisms. Immune heterogeneity affects clinical symptoms and prognosis. Cases of PERM combined with orthostatic hypotension and various antibodies have rarely been reported, the incidence and the specific mechanism is unknown, underscoring the need for further research. This case report underscores the importance of recognizing the diverse clinical presentations of PERM and the challenges in its diagnosis and management. It highlights autonomic dysfunction may be as the initial symptom of PERM. Moreover, it emphasizes the limitations of current treatment modalities and the necessity for further research to elucidate the underlying mechanisms and optimize therapeutic approaches for this debilitating autoimmune condition.
+
+
+Introduction
+Stiff person syndrome (SPS) is a rare disease characterized by axial and lower extremity muscle rigidity, muscle spasm, and pain. SPS was first reported by Moersch and Woltman in 1956 [1] and was attributed to autoimmune processes indicated by the discovery of anti-GAD antibodies [2]. SPS can be divided into classical and variant types [3]. In 1976, Whiteley [4] reported two cases of encephalomyelitis with ankylosis related to SPS and subacute myoclonic neuronitis, which later named PERM. PERM is a severe autoimmune disease that manifests as tonicity, muscle pain, spasms, sensory disorders, brainstem and spinal symptoms, autonomic dysfunction, dyspnea, sudden spontaneous and stimulus-induced myoclonus. Anti-glycine(GlyR) and anti-GAD are common in PERM.
+
+In our report, we present the first case of progressive encephalomyelitis with rigidity and myoclonus (PERM) initially presenting with orthostatic hypotension. The detection of elevated levels of anti-GAD, GlyR, and other ganglioside antibodies in the patient’s body not only supports the autoimmune properties of PERM but also offers a new perspective on understanding the immunopathological mechanism of PERM through the reporting of several antibody positive cases.
+
+Case presentation
+Clinical information
+We report the case of a 71-year-old man who began dizziness that was relieved upon assumption of a supine posture in October 2015. The patient had a history of hypertension, coronary heart disease, and a second lumbar vertebral fracture, and was admitted to the Sir Run Run Shaw Hospital affiliated with Zhejiang University in 2016 January.
+
+The standing blood pressure ranged from 75/55mmHg to 69/48mmHg, while that in lying position was 118/70mmHg. Orthostatic hypotension was considered, and the symptoms improved with a reduction in antihypertensive medication. Physical examination showed no abnormalities: Soft neck without resistance, bilateral pupils of equal size, with a diameter of about 3 mm, sensitive to light reflection, negative cranial nerve, normal muscle tone in all limbs, grade five muscle strength, presence of superficial reflex, normal depth sensation, Babinski sign absent.
+
+10 days after his discharge in January 2016, the patient developed dysphagia and had difficulty in swallowing both food and saliva. Physical examination and neurological examination showed no abnormalities. Also, head MRI and Gastroenterological examination showed no obvious abnormalities. At that time, the patient’s symptoms were suspected to be psychogenic. Then he was transferred to a psychiatric hospital.
+
+In March 2016, dysphagia worsened, accompanied by hoarseness, diplopia, phantom smell, and weakness in both lower limbs. His distal extremities felt numb, and he had a feeling of “wearing gloves and socks”. Upon readmission, head MRI revealed no significant abnormalities. Based on symptoms such as dysphagia, weakness and numbness, the patient was initially suspected of Guillain Barré syndrome (GBS). Intravenous hydrocortisone (200 mg, 14 days) and intravenous immunoglobulin (IVIG) (5 days total 2.0 g/kg) were administered, dysphagia improved. Steroids were tapered off after discharge.
+
+However, in April 2016, the patient developed frequent urination. He received IVIG and methylprednisolone treatment without evident improvement. Subsequently, he developed cough, difficulty in defecation, and lethargy. Physical examination revealed vertical nystagmus, limited tongue extension, blepharoptosis (obvious in the right eye), air leakage from the cheeks, grade three muscle strength in both lower extremities, increased muscle tension, brisk tendon reflex, occasional tonic spasm in both lower extremities triggered by movement or touch, Babinski sign absent. Upon admission, the patient presented with coma, fever, and difficulty in expectoration. His oxygen saturation decreased to 84%. He was then intubated and ventilated. Laboratory examination indicated a positive serum GlyR antibody (1:32) and elevated GAD antibody levels (345.1IU/ml). Additionally, serum ganglioside antibodies GM1-IgG and GQ1b-IgG were positive. Serum paraneoplastic antibodies (anti-Hu, anti-Ri, anti-Yo, anti-Amphiphysin, anti-Ma2, anti-SOX1, anti-Tr and anti-NMDA) were negative, while the thyroid peroxidase antibody and thyroid globulin antibodies were positive. The levels of tumor markers, including carbohydrate antigen (CA-125) 43.82U/ml, carbohydrate antigen (CA19-9) 68.30IU/ml, and alpha-fetoprotein(AFP) 12.37ng/mL, and squamous cell carcinoma related antigen(SCCA) 2.10ng/ml were elevated. Cerebrospinal fluid analysis (Table 1) revealed negative result for autoimmune encephalitis antibodies. Throughout the hospitalization, EEG, NCV + EMG, repetitive nerve stimulation, head MRI (Fig. 1), enhanced cervical spinal MRI (Fig. 2), and enhanced thoracic spinal MRI (Fig. 3) MRI did not indicate any abnormalities consistent with the disease presentation. Considered as “immune mediated central nervous system disorders”, the patient underwent plasmapheresis three times a week, followed by two courses of immunoglobulin, steroids and immunosuppressive therapy with rituximab. Consequently, the patient’s condition stabilized, enabling him to stand and walk with assistance, although urinary incontinence persisted. The steroids dosage was tapered off, and it was maintained at 40 mg on alternate days.
+
+Fig. 1
+Multiple ischemic foci with T2 Flair and no abnormalities on T1 and DWI. MR of the head showed multiple ischemic lesions in the brain, and no obvious abnormal signs
+Fig. 2
+Compressive changes of T8 and T10-L1 were observed in thoracic enhanced MR, with posterior margin of T8 and T12 bulging and local spinal stenosis. T11, T12 vertebral body changes, recent fracture or inflammation consideration; T8, T10 vertebral upper margin; Endlaminitis at the upper and lower edges of L1 vertebral body was considered
+Fig. 3
+Cervical enhanced MR Showed cervical degenerative changes with disc herniation at C3/4, C4/5 and C5/6, accompanied by spinal stenosis at C5/6. C5/6 adjacent vertebral endlaminitis; Narrowing of the C5/6 intervertebral space
+
+In October 2016, the patient experienced recurrence characterized by dysphagia, limb weakness, lower limb spasms, dyspnea, and difficulty coughing. He was intubated. Seven plasma exchanges was administrated. After the condition stabilized, cyclophosphamide treatment was initiated monthly, which led to an improvement in his condition.
+
+Over the next two years, the patient experienced recurrent hospitalizations. Cyclophosphamide immunosuppression, low-dose steroids (20 mg/15 mg alternate every other day), baclofen and clonazepam were continued. Unfortunately, the patient developed pulmonary embolism and cardiac arrest, and died. We have made a timeline figure which helps better display the changes in the patient’s condition(Fig. 4).
+
+Fig. 4
+Timeline of disease symptom progression and treatment for patients
+
+
+Discussion
+Clinical symptoms and diagnostic challenges
+Progressive encephalomyelitis with rigidity and myoclonus (PERM), a variant of Stiff Person Syndrome, typically manifests with the classical features of SPS, such as axial and limb stiffness, painful muscle spasms associated with myoclonus, hyperekplexia, brainstem signs, pyramidal signs, dysautonomia, and cognitive impairment, all progressing in a notably aggressive manner.
+
+The initial clinical presentation of PERM may not be typical, so the diagnosis of PERM is often challenging. Previous studies have indicated that early symptoms in PERM patients encompass a wide array, including pruritus, gastrointestinal symptoms, urinary retention, constipation, sleep disorders, anxiety and depression, impaired taste, scoliosis and lordosis, dementia, cerebellar ataxia, and Raynaud syndrome, etc [5, 6]. The case we reported showed early autonomic dysfunction with orthostatic hypotension as the main symptom. This may suggest that paying attention to the early onset of autonomic dysfunction in patients can contribute to the early diagnosis of PERM.
+
+The patient we reported started with postural dizziness and was diagnosed as “Orthostatic hypotension (OH)”. Many diseases can cause orthostatic hypotension, including synucleinopathies, myelopathy, radiculopathy, gangliopathy, and peripheral neuropathy. etc. Synucleinopathies are characterized by pathological changes in the brain and peripheral autonomic nervous system, including α-synuclein-containing neuronal cytoplasmic inclusions (Lewy bodies) or glial inclusions. These conditions include Parkinson’s disease, dementia with Lewy body, and multiple system atrophy. Autoimmune diseases related to peripheral neuropathy or autonomic ganglion disorders can also cause autonomic dysfunction. Among them, 50% of patients carry a ganglionic (α-3 type) nicotinic acetylcholine receptor antibody (gAChR), provides a clear immunologic basis for this condition, with higher titers correlating with greater disease severity. Worth noting, however, is that the absence of antibodies does not exclude the diagnosis, and clinical suspicion [7]. In addition to orthostatic hypotension, patients with this condition also have symptoms such as dry eyes, dry mouth, severe upper gastrointestinal autonomic dysfunction, dilated pupils with weakened light and regulatory reflexes, and neurogenic bladder. In recent years, it has been increasingly discovered that some autoimmune-related encephalitis and encephalopathy can exhibit orthostatic hypotension, such as GFAP antibody-associated encephalitis, Anti-LGI1-Antibody Autoimmune Encephalitis, Anti-immunoglobulin-like cell adhesion molecule 5 (IgLON5) disease and so on, due to vasomotor and cardiac sympathetic failure. Autoimmune diseases related to peripheral neuropathy or autonomic ganglion disorders can also cause autonomic dysfunction. In this patient we reported, OH served as a manifestation of autonomic nervous dysfunction in PERM disease, which is not a typical early manifestation of the condition.
+
+Recent studies [8, 9] have reported autonomic dysfunction in 69% (20/29 cases) of PERM cases with positive anti-GAD antibody and 43% of PERM cases with positive anti-GlyR antibody. This suggests that autonomic dysfunction is common in PERM disease and may appear in the early stages, which could be easily overlooked. However, we conducted a literature search and review, and none of the positive antibodies in the case we reported were confirmed to be associated with autonomic dysfunction.
+
+Autoantibody profiles and disease pathogenesis
+Anti-GAD antibody and anti-GlyR antibody are common in PERM diseases. Approximately 10-20% of these patients exhibit anti-GAD antibody, about 50% have anti-GlyR antibody, and one-third of patients test negative for antibodies [10]. In addition to these two antibodies, other antibodies have been reported in literature but no relationship between these antibodies and PERM was not confirmed. The coexistence of multiple antibodies in the disease is referred to as an “autoantibody overlap”. At present, reports on multiple antibody combinations in PERM are limited. A summary of previous reports is presented in Table 2 [11,12,13,14,15,16].
+
+Table 2 List the combined antibodies and related symptoms in recent years
+Year Author antibodies Related symptoms
+and mechanisms
+2011 Turner MR
+NMDAR antibody combined
+with anti-GlyR
+unknown
+mechanisms
+2011 Uehara T
+AChRa3 combined with
+anti-GAD
+Related to myasthenia gravis
+2013 Shugaiv E
+LG1 antibody, VGKC
+antibody combined with
+anti-GAD
+LG1 antibodies
+related to seizures
+and memory loss
+2014 Balint B
+DPPX antibody combined
+with anti-GlyR
+may be related
+to cognitive and
+mental disorders
+2015 Koike Y
+GM1 antibody combined
+with anti-GAD and anti-GlyR
+GM1 antibody
+may be related to
+myasthenia
+2018 Wirth T
+VGKC antibody combined
+with anti-GlyR
+unknown
+mechanisms
+
+High titers of GAD antibody are found in the sera of patients with various neurological syndromes, including SPS, cerebellar ataxia, epilepsy, and limbic encephalitis, etc. GAD, a cytoplasmic antigen mainly located in GABA and islet beta cells, designates the nervous system and the islet as the principal targets for anti-GAD antibody action. However its role in disease pathogenesis remains unclear. The presence of GAD antibody in the serum alone does not necessarily signify a relevant autoimmune central nervous system disease or warrant immunotherapy. Elevated serum GAD antibody level associated with neurological syndromes serve as a crucial indicator of an immune-mediated etiology. The presence of GAD antibody in cerebrospinal fluid along with evidence of intrathecal synthesis of immunoglobulins can further support a link to GAD autoimmunity and help to rule out other diagnoses [17]. But positive GAD-Ab is considered a minor criteria owing to the relative low sensitivity, as not all patients with SPS spectrum disorders have positive GAD-Ab, and they are not obligatory criteria for the diagnosis. The diagnostic value of high GAD antibody titers in SPS spectrum disorders was confirmed with concurrent validation of ELISA titers by cell-based assay and immunohistochemistry in a large patient series. Lower titers (less than 10,000 IU/mL) are related to an atypical or nonspecific neurologic disease, requiring further investigations including lumbar puncture to confirm CNS autoimmunity [18]. In this case, the patient had central nervous system symptoms and high serum titers of anti-GAD antibody. Therefore, it is believed that the disease in this patient may be related to anti-GAD antibody.
+
+The anti-GlyR antibody is an antibody against neuronal surface antigen, which was first discovered by Hutchinson [19] in 2008. GlyR is predominantly located in the caudal aspect of the brain stem, cerebellum, and spinal cord, potentially leading to brainstem symptoms, such as eye movement disorders or cerebellar symptoms like gait ataxia and poor coordination. Anti-GlyR antibody is associated with Stiff person syndrome disorders (SPSD), epilepsy, cerebellar ataxia, Parkinson’s syndrome, and autoimmune encephalitis. Patients with SPSD with positive anti-GlyR antibody are more likely to present with the PERM subtype. Previous studies have indicated a high correlation between anti-GlyR antibody and hypopnea, arrhythmia, hyperexcitability, and eye movement abnormalities [10], with antibody titers potentially reflecting the disease severity. The clinical course of PERM tends to be more severe than that of typical SPS, with 25% of patients requiring mechanical ventilation, and a staggering fatality rate of up to 40% [20]. Although serum anti-GlyR antibody is positive in most cases, CSF anti-GlyR antibody are more specific than sera, especially when the serum antibody titer is low.
+
+Anti-GM1 and anti-GQ1b antibody belong to the category of ganglioside antibodies. GQ1b antibodies may be positive in Miller Fisher syndrome (MFS), Bickerstaff brain-stem encephalitis(BBE), brachial pharyngeal neck weakness (PCB), and additive syndrome. GQ1b is highly expressed in the paranodal area of the oculomotor nerve, trochlea, abducens nerve, and neuromuscular junction, and is potentially related to extraocular muscle and cranial nerve palsy. The positive serum GQ1b antibody in this patient may explain the clinical manifestations of diplopia. The patient was initially suspected of Guillain Barré syndrome, based on some of his symptoms such as autonomic nervous system involvement and dysphagia. However, as the disease progressed and clinical manifestations changed, the hypothesis of diagnosis as GBS was overturned. Here are some key clinical features of this patient that explain why we ultimately ruled out the diagnosis of GBS: Firstly, the patient’s symptoms included persistent muscle stiffness and spasms, which could be triggered by touch without areflexia, indicating central nervous system involvement. This is more in line with the characteristics of PERM. And although the patient had partial reactions to IVIG and methylprednisolone treatment, symptoms quickly recurred, which is inconsistent with the typical treatment response of GBS. Also, the patient’s EEG, EMG and other examinations did not show typical features of GBS, such as electrophysiological conduction block. And the patient’s disease progressed rapidly with poor prognosis, which is consistent with the clinical process of PERM.
+
+GM1 antibody may also be found in Guillain-Barre syndrome, Multifocal Motor Neuropathy (MMN), and Chronic Inflammatory Demyelinating Polyneuropathy (CIDP). Although the GM1 antibody has been associated with myasthenia [15], it is considered the epiphenomenon rather than a responsible antibody. We infer that the patient’s recurrent condition and complex symptoms may be related to the presence of multiple positive antibodies. It is precisely because of the widely activated autoimmune response in his body that various autoimmune antibodies are present. So GM1 may potentially modify clinical presentation.
+
+Research indicates that Stiff Person Syndrome Spectrum Disorders (SPSD) can coexist with other autoimmune diseases and there are many non-neurogenic autoantibodies present. Among them, relatively common ones include ANA, thyroid peroxidase, thyroglobulin, etc. However, it is currently unclear how non-neurogenic autoantibodies occur in SPSD and whether they tend to coexist with specific SPS phenotypes [21] .Antinuclear antibodies (ANA) are a set of autoantibodies produced in the nucleus against DNA, RNA, proteins, or molecular complexes of these substances. It is characterized in many autoimmune diseases, especially rheumatoid diseases such as systemic lupus erythematosus. In the presented case, the patient consistently tested positive for ANA, with a maximum titer of 1:320. This repeated positivity may be correlated with the progression of the disease, multiple recurrences and poor prognosis of our patient.
+
+Treatment strategies and management
+At the onset of the disease, our patient underwent treatment with high doses of glucocorticoids (hydrocortisone and methylprednisolone) and gamma globulin, which yielded partial efficacy. However, as the disease recurred and progressed, the therapeutic effects of glucocorticoids and gammaglobulin diminished. Plasma exchange and rituximab treatment led to a notable improvement in the patient’s condition. In the later stage, long-term low-dose glucocorticoid and cyclophosphamide immunosuppressive therapies were administered. Drawing insights from existing literature, the therapeutic approach for PERM can be summarized as follows:
+
+1)
+Immunosuppressive therapy: Intravenous administration of methylprednisolone is initiated at a dose of 500 mg daily for 5 days, followed by a transition to oral methylprednisolone tablets with a tapering regimen from 100 mg daily to 10 mg every other day. Meanwhile, intravenous administration of gamma globulin (0.4 g/kg daily for 5 days) or plasma exchange (5 days with 50 ml/kg volume within a 2-week period) can be employed, either as monotherapy or in combination. The choice between immunoglobulin and plasma exchange, as well as the duration of treatment, should be adjusted based on the patient’s condition and potential disease, with a focus on starting treatment as early as possible. In the case of recurrence, rituximab or azathioprine can be added as second-line immunotherapy, which seems to have a good effect [22].
+
+2)
+Oncologic treatment: PERM may complicate with the tumor, and the treatment of tumors plays an important role in the improvement of PERM symptoms. At present, there are few studies related to PERM, and there is no precise epidemiological statistics. However, according to literature search, the age of onset of PERM is variable, with patients ranging from 16 to 72 years old being reported. 20% of patients were accompanied by tumors, including thymoma, Hodgkin’s lymphoma, lung cancer, renal cell carcinoma, etc. Notably, symptoms related to tumors, such as those associated with thymoma, show substantial improvement following tumor resection [23]. Additionally, cases of Hodgkin’s lymphoma-associated PERM [24] tend to exhibit improvement after chemotherapy. Therefore, in the early stage of diagnosis, tumors should be screened comprehensively, irrespective of the serology in all patients.
+
+3)
+Symptomatic treatment: In addressing hypertonia and painful spasms associated with PERM, intrathecal injections of benzodiazepines (e.g., diazepam) and muscle relaxants (e.g., baclofen) are employed to ameliorate hypertonia. BOTOX administration may mitigate focal hypertonia. Attention should be paid to monitoring the potential adverse reactions and withdrawal effects associated with these medications. A case was treated with levetiracetam, and the myoclonus improved [25]. Although epilepsy is not the core symptom of PERM, anti-GlyR-related PERM can show intractable epilepsy. For some patients with refractory drug-resistant epilepsy, active immunotherapy is conducive to control epilepsy rapidly. Patients may not need long-term use of antiepileptic drugs after PERM is controlled [26]. Carbamazepine was administered for seizure management. Tolterodine can also be administered to alleviate urination difficulties. Given the potential psychological impact of the disease, characterized by symptoms such as anxiety and depression, psychotropic medications such as paroxetine, can be considered as part of the treatment regimen. But there have been no reports of significant therapeutic effects in psychotropic drugs therapy. Rehabilitation therapy also plays a crucial role in the comprehensive management.
+
+Current challenges and limitations in research
+This study is based on a single case report, which limits the generalizability of findings to a broader population. So we searched for some literature and reviewed it to obtain more data. The diagnosis of PERM, especially in its early stages, can be challenging due to its rarity and overlapping clinical features with other neurological disorders such as autoimmune encephalitis, Guillain Barré syndrome and so on. The diagnostic process may vary depending on available resources and professional knowledge, potentially affecting the accuracy of diagnosis and treatment decisions.
+
+The observed treatment response in this situation may not represent all PERM patients. Individual variability in treatment response, as well as the emergence of new therapeutic modalities, could influence outcomes in different cases. In addition, the long-term efficacy and safety of treatments such as immunosuppressive therapy require further investigation.
+
+Despite advancements in understanding the pathophysiology of PERM, many aspects of this disease remain incompletely understood. The precise mechanisms underlying disease onset, progression, and response to treatment are still being elucidated, and further research is needed to fill these knowledge gaps.
+
+Overall, while this case report contributes valuable insights into the clinical management of PERM, its findings should be considered within the context of these inherent limitations, and future research efforts should aim to address these challenges for a more comprehensive understanding of the disease.
+
+Conclusion
+The case report details a unique presentation of progressive encephalomyelitis with rigidity and myoclonus (PERM), which is a severe variant of Stiff Person Syndrome (SPS). The patient’s initial manifestation of orthostatic hypotension, followed by progressive neurological symptoms, highlights the diverse clinical spectrum of this rare autoimmune disorder. Despite the presence of characteristic symptoms, the diagnosis of PERM was challenging due to its rarity and overlapping clinical features with other neurological conditions. We need to consider the possibility of this disease based on the patient’s symptoms, and then test Anti-GAD antibody and anti-GlyR antibody to further clarify the diagnosis. The patient underwent various treatment modalities, including corticosteroids, immunoglobulin therapy, plasma exchange, and immunosuppressive therapy with rituximab and cyclophosphamide. While some interventions provided temporary relief, the patient experienced recurrent symptoms and ultimately succumbed to complications, underscoring the challenges in managing PERM.
+
+This case report emphasizes the importance of early recognition of autonomic dysfunction and consideration of multiple antibody involvement in suspected cases of PERM. It also highlights the limitations of current treatment approaches and the need for further research to improve diagnostic accuracy and therapeutic outcomes in patients with this debilitating autoimmune condition.
+
+Abbreviations
+SPS:
+Stiff Person Syndrome
+
+PERM:
+Progressive Encephalomyelitis with Rigidity and Myoclonus
+
+GAD:
+Glutamic Acid Decarboxylase
+
+GM1:
+Ganglioside
+
+GlyR:
+Anti-Glycine antibody
+
+MRI:
+Magnetic Resonance Imaging
+
+CT:
+Computed Tomography
+
+CSF:
+Cerebral Spinal Fluid
+
+CA-125:
+Carbohydrate Antigen 125
+
+CA19-9:
+Carbohydrate Antigen 19 − 9
+
+AFP:
+Alpha-Fetoprotein
+
+SCCA:
+Squamous Cell Carcinoma related Antigen
+
+EEG:
+Electroencephalogram
+
+EMG:
+Electromyography
+
+NCV:
+Nerve Conduction Velocity
+
+OH:
+Orthostatic Hypotension
+
+MFS:
+Miller Fisher Syndrome
+
+BBE:
+Bickerstaff Brain-stem Encephalitis
+
+PCB:
+brachial Pharyngeal neck weakness
+
+MNN:
+Multifocal Motor Neuropathy
+
+CIDP:
+Chronic Inflammatory Demyelinating Polyneuropathy
+
+ANA:
+Antinuclear Antibodies
+
+NMO:
+Neuromyelitis Optica
+
+SPSD:
+Stiff Person Syndrome Disorders
