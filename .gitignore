@@ -1,0 +1,4 @@
+venv/
+requirements.txt
+start_prj.txt
+__pycache__/

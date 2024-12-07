@@ -1,9 +1,14 @@
 from django.shortcuts import render
 from .models import Document
 from .utils import match_query_to_documents
+from rest_framework.decorators import api_view
+from rest_framework import status
+from django.http import JsonResponse
+from .serializers import DocumentWithScoreSerializer
 
+@api_view(['POST'])
 def search_view(request):
-    query = request.GET.get('q', '')  # Get the user's query via GET
+    query = request.data.get('query')
 
     if query:  # If the query is not empty
         doc_ids_with_scores = match_query_to_documents(query)  # Get document IDs and their similarity scores
@@ -24,7 +29,11 @@ def search_view(request):
             doc = documents.get(id=doc_id)  # Get document by ID
             score = doc_scores.get(doc.id, 0)  # Get the score for this document
             doc_data.append({'document': doc, 'score': score})
+        
+        print(doc_data)
 
-        return render(request, 'search_results.html', {'doc_data': doc_data, 'query': query})
+        serializer = DocumentWithScoreSerializer(doc_data, many=True)
+
+        return JsonResponse({'doc_data': serializer.data, 'query': query})
     else:  # If the query is empty
-        return render(request, 'search_results.html', {'documents': [], 'query': query})
+        return JsonResponse({'doc_data': [], 'query': query})
