@@ -3,6 +3,8 @@ from django.db import models
 class Document(models.Model):
     id = models.AutoField(primary_key=True)
     title = models.CharField(max_length=255)
+    pdf_file = models.CharField(max_length=255, null=True, blank=True)
+    pdf_excerpt = models.TextField(null=True, blank=True)
 
     class Meta:
         db_table = 'doc_list'

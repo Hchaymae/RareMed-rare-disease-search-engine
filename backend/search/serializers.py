@@ -4,7 +4,7 @@ from .models import Document
 class DocumentSerializer(serializers.ModelSerializer):
     class Meta:
         model = Document
-        fields = ['id', 'title']
+        fields = ['id', 'title','pdf_file', 'pdf_excerpt']
 
 class DocumentWithScoreSerializer(serializers.Serializer):
     document = DocumentSerializer()
