@@ -2,3 +2,4 @@ venv/
 requirements.txt
 start_prj.txt
 __pycache__/
+backend/media/documents/pdfs/*.pdf 
