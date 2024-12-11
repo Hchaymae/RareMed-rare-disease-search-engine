@@ -50,3 +50,10 @@ Avant d'exécuter ce projet, assurez-vous d'avoir installé les éléments suiva
 - Dépendances frontend via npm :
   - `react`
   - `vite`
+
+## Screenshots
+### Interface utilisateur principale
+![Interface principale](images/home.png)
+
+### Exemple de résultats de recherche
+![Résultats de recherche](images/example_query.png)
