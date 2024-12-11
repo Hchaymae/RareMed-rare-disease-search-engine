@@ -12,7 +12,8 @@ L’objectif principal est d’extraire les informations pertinentes à partir d
 
 
 ## Fonctionnalités principales
-### 1. Extraction des articles scientifiques : Utilisation de l'**API PubMed** pour extraire les articles scientifiques sur les maladies rares.
+### 1. Extraction des articles scientifiques : 
+   - Utilisation de l'**API PubMed** pour extraire les articles scientifiques sur les maladies rares.
 ### 2. Prétraitement des Données :
    - **Chargement et extraction de textes** à partir de fichiers **PDF**.
    - **Nettoyage des textes** : normalisation et suppression des caractères spéciaux.
