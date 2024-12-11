@@ -28,7 +28,7 @@ L’objectif principal est d’extraire les informations pertinentes à partir d
 ### 4. Recherche :
   - Implémentation d'un moteur de recherche utilisant l' **index inversé** pour récupérer rapidement des documents pertinents en fonction des requêtes des utilisateurs.
   - Affichage des résultats avec des scores de pertinence basés sur la similarité cosinus entre les requêtes et les documents indexés.
-- ### 5. Interface utilisateur :
+### 5. Interface utilisateur :
   - Système interactif pour saisir les requêtes et afficher les résultats classés par pertinence.
 
 ## Technologies utilisées
