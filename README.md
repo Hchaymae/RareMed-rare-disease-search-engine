@@ -39,7 +39,7 @@ L’objectif principal est d’extraire les informations pertinentes à partir d
 
 ## Prérequis
 Avant d'exécuter ce projet, assurez-vous d'avoir installé les éléments suivants :
-- **Python 3.8 ou version ultérieure**
+- **Python 3.10 ou version ultérieure**
 - **Node.js et npm** : Pour la gestion des dépendances frontend avec React et Vite.
 - Bibliothèques Python :
   - `nltk`
