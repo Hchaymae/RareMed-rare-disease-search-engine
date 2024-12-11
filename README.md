@@ -6,8 +6,9 @@
 </div>
 
 
-## Description
-Le projet **Système de Recherche de Maladies Rares** vise à faciliter l'identification et l'extraction d'informations pertinentes sur les maladies rares à partir de vastes collections d'articles scientifiques. Ce système repose sur des techniques avancées de traitement automatique du langage naturel (NLP) et d'indexation inversée pour offrir une recherche rapide et efficace.
+## Description du Projet
+Ce projet vise à développer un système de recherche d'information permettant de détecter des maladies rares à partir de documents scientifiques (principalement des articles PDF). Ce système inclut des étapes de prétraitement des données, d'indexation et de recherche via un modèle vectoriel TF-IDF. L’objectif principal est d’extraire les informations pertinentes à partir des textes scientifiques pour permettre des recherches efficaces et rapides.
+
 
 ## Fonctionnalités principales
 ## Technologies utilisées
