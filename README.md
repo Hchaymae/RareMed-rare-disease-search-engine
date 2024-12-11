@@ -12,28 +12,30 @@ L’objectif principal est d’extraire les informations pertinentes à partir d
 
 
 ## Fonctionnalités principales
-### 1. Prétraitement des Données :
+### 1. Extraction des articles scientifiques : Utilisation de l'**API PubMed** pour extraire les articles scientifiques sur les maladies rares.
+### 2. Prétraitement des Données :
    - **Chargement et extraction de textes** à partir de fichiers **PDF**.
    - **Nettoyage des textes** : normalisation et suppression des caractères spéciaux.
    - **Tokenisation des mots** et filtrage des **stopwords**.
    - **Lemmatisation des mots** pour les réduire à leur forme canonique.
    - Application de la méthode **TF-IDF** pour la représentation vectorielle des documents.
 
-### 2. Indexation :
-   - Création d’un **index inversé** à partir des représentations TF-IDF des documents.
-   - Analyse des documents pour générer des fréquences de termes, leurs positions et scores TF-IDF.
-   - Construction d'un index inversé permettant une recherche rapide des termes.
+### 3. Indexation :
+  - Création d'un index inversé à partir des représentations TF-IDF des documents.
+  - Analyse des documents pour générer des fréquences de termes, leurs positions et scores TF-IDF.
+  - Construction d'un index inversé permettant une recherche rapide des termes dans la base de données PostgreSQL.
 
-### 3. Recherche :
-   - Implémentation d'un moteur de recherche utilisant l'**index inversé** pour récupérer rapidement des documents pertinents en fonction des requêtes des utilisateurs.
-   - **Traitement des textes scientifiques** : Nettoyage, tokenisation et suppression des mots vides.
-   - **Interface utilisateur** : Système interactif pour saisir les requêtes et afficher les résultats classés par pertinence.
+### 4. Recherche :
+  - Implémentation d'un moteur de recherche utilisant l' **index inversé** pour récupérer rapidement des documents pertinents en fonction des requêtes des utilisateurs.
+  - Affichage des résultats avec des scores de pertinence basés sur la similarité cosinus entre les requêtes et les documents indexés.
+- ### 5. Interface utilisateur :
+  - Système interactif pour saisir les requêtes et afficher les résultats classés par pertinence.
 
 ## Technologies utilisées
 - **Python** : Langage principal pour le développement.
 - **NLTK** : Bibliothèque pour le traitement du langage naturel.
 - **Django** : Framework pour la gestion de l'application web.
-- **PostgreSQL** : Base de données relationnelle pour le stockage des métadonnées des articles.
+- **PostgreSQL (Aiven)** : Base de données relationnelle pour stocker les métadonnées des articles et l'index inversé.
 - **React** : Bibliothèque JavaScript pour la création de l'interface utilisateur dynamique.
 - **Vite** : Outil de développement pour un démarrage rapide et une optimisation de la construction du projet React.
 
